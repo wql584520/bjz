@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1080px;
+  width:1299px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -4409,4 +4409,29 @@
 }
 #u809_input:disabled {
   color:grayText;
+}
+#u810_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:161px;
+}
+#u810 {
+  border-width:0px;
+  position:absolute;
+  left:1099px;
+  top:88px;
+  width:200px;
+  height:150px;
+  color:#FF0000;
+}
+#u810_text {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:180px;
+  word-wrap:break-word;
 }
